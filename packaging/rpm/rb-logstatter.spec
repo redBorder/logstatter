@@ -34,5 +34,18 @@ systemctl start rb-logstatter
 /etc/logstatter/logstatter.conf
 %doc
 %changelog
+* Thu Dec 14 2023 Miguel Negron, Malvads, GitHub Actions <manegron@redborder.com, malvarez@redborder.com, actions@github.com> - 0.0.2
+- Trigger workflow
+- Update README
+- Fix CI
+- Delete chagelog tpm
+- Fix CI
+- Merge branch 'release/0.0.2' of github.com:redBorder/logstatter into release/0.0.2
+- Add build dates
+- Merge branch 'main' into release/0.0.2
+- Fix auto bumping
+- Update workflow
+- Add auto bumping
+- Bump version 0.0.2
 * Mon Dec 11 2023 Miguel Álvarez <malvarez@redborder.com> - 0.0.1-1
 - Initial package release
