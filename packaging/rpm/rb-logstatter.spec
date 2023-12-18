@@ -47,4 +47,6 @@ systemctl start rb-logstatter
 %doc
 
 %changelog
+* Mon Dec 18 2023 Miguel Álvarez <malvarez@redborder.com> - 0.0.1-1
+- First version of rb-logstatter
 
