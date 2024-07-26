@@ -35,7 +35,6 @@ getent passwd logstatter >/dev/null || useradd -r -g logstatter -d /var/lib/logs
 
 %post
 systemctl daemon-reload
-systemctl start rb-logstatter
 
 %files
 %defattr(0755,logstatter,logstatter)
