@@ -46,6 +46,8 @@ systemctl daemon-reload
 %doc
 
 %changelog
+* Mon Dec 18 2023 Miguel Negrón <manegron@redborder.com> - 0.0.2-1
+- Dont start service after install
 * Mon Dec 18 2023 Miguel Álvarez <malvarez@redborder.com> - 0.0.1-1
 - First version of rb-logstatter
 
